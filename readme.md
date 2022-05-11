@@ -3,14 +3,14 @@
 O objetivo dessa API é avançar com meus estudos em backend. Com isso, foi feita uma API REST utilizando os principais verbos http para tratamento dos dados a serem inseridos no banco de dados. Nesse exercício também me preocupei em como os dados de acesso ao banco apareceriam no código, para isso eu usei a biblioteca dotenv que me permite alocar essas chaves de acesso num arquivo de ambiente(.env).
 
 ## A stack utilizada foi:
-Javascript
- NodeJS
- Express
+Javascript,
+ NodeJS,
+ Express,
  MongoDB 
 
 ## As bibliotecas usadas foram: 
-Dotenv
-Mongoose
+Dotenv, 
+Mongoose,
 Nodemon
 
  ## Endpoints da API:
