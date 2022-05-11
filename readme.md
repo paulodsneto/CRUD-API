@@ -15,10 +15,15 @@ Nodemon
 
  ## Endpoints da API:
  ![image](https://img.shields.io/badge/-POST-orange) Cadastro de Pessoa
+ 
  ![image](https://img.shields.io/badge/-GET-brightgreen) Buscar Pessoas
+
  ![image](https://img.shields.io/badge/-GET-brightgreen) Buscar Pessoas por ID
+
  ![image](https://img.shields.io/badge/-PATCH-blue) Atualizar Pessoa
+
  ![image](https://img.shields.io/badge/-DELETE-red) Deletar pessoa
+
  
 
 ## Validando os endpoints no Postman: 
@@ -44,5 +49,4 @@ Nodemon
 > Você deve ver algo como isso no terminal: 
 
 	nodemon ./index.js localhost 3000
-
 
